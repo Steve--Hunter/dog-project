@@ -9,3 +9,4 @@ bottleneck_features/DogVGG16Data.npz
 *.h5
 *.h5
 desktop.ini
+bottleneck_features/DogResnet50Data.npz
