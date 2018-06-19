@@ -8,3 +8,4 @@ bottleneck_features/DogVGG16Data.npz
 *.p
 *.h5
 *.h5
+desktop.ini
